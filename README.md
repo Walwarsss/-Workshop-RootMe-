@@ -16,5 +16,5 @@ Epitech Workshop, RootMe
 
 ## Authors
 
-* **Martin Saison**
+* **Leyna LAHOURI**
 * **Geoffrey Lazzari**
